@@ -1,4 +1,4 @@
-# Esmail Emami - Full Stack Developer
+# Esmail Emami
 I am a Full Stack developer building web applications professionally since 2020. Always focusing on the best practices to provide scalable and testable solutions, I believe that software has to be able to well reflect and improve the business processes, as to survive through the constant changes the market demands.
 
 - .Net Core, C#, ASP.NET Web API
